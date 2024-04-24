@@ -6,12 +6,12 @@ import { getAuth } from "firebase/auth";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyDUfotwYjA9162XG06J1LZFmCcTOnsFcy4",
-  authDomain: "coffee-store-269e7.firebaseapp.com",
-  projectId: "coffee-store-269e7",
-  storageBucket: "coffee-store-269e7.appspot.com",
-  messagingSenderId: "274754578407",
-  appId: "1:274754578407:web:d2c78188205fd16ab53f42"
+// apiKey: "AIzaSyDUfotwYjA9162XG06J1LZFmCcTOnsFcy4",
+//  authDomain: "coffee-store-269e7.firebaseapp.com",
+// projectId: "coffee-store-269e7",
+//storageBucket: "coffee-store-269e7.appspot.com",
+//messagingSenderId: "274754578407",
+// appId: "1:274754578407:web:d2c78188205fd16ab53f42"
 };
 
 // Initialize Firebase
